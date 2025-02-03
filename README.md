@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello world 👋, I'm Aditya , A Indian web developer <br>📚 Studying Electronic and telecommunication at Sinhagad college of Engineering 
+Hello world 👋, I'm Aditya , a web developer <br>📚 Studying Electronic and telecommunication at Sinhagad college of Engineering 
 
 
 # 💻 Tech Stack:
