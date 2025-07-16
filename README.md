@@ -15,13 +15,5 @@ Hi 👋, I'm Aditya Birajdar, a MERN Stack developer<br>📚 Studying Electronic
 ---
 [![](https://visitcount.itsvg.in/api?id=ifskelton69&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### 📫 Connect with Me
-
-[![LinkedIn] (https://img.shields.io/badge/LinkedIn-AdityaBirajdar-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)  
-[![YouTube] (https://img.shields.io/badge/YouTube-SoulAnime-red?logo=youtube&style=for-the-badge)](https://youtube.com/@SoulAnime)
-
----
-
 > ⭐ *Feel free to check out my projects and connect! I'm always open to collaboration and learning new things.*
 
