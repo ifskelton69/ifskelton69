@@ -8,7 +8,6 @@
 - 🎓 Pursuing **Electronics and Telecommunication Engineering** at **Sinhagad College of Engineering**
 - 💻 Passionate about **web development**, currently building a **real-time Chat App using WebSockets**
 - 📚 Learning **Full Stack Development**, **DSA**, and **modern web tools**
-- 🎮 I create **anime-inspired** and **gaming content** on [YouTube](https://youtube.com/@SoulAnime)
 - 🏏 Cricket lover and always curious to explore the latest in tech
 
 ---
@@ -41,8 +40,8 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdityaBirajdar-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)  
-[![YouTube](https://img.shields.io/badge/YouTube-SoulAnime-red?logo=youtube&style=for-the-badge)](https://youtube.com/@SoulAnime)
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-AdityaBirajdar-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)  
+[![YouTube] (https://img.shields.io/badge/YouTube-SoulAnime-red?logo=youtube&style=for-the-badge)](https://youtube.com/@SoulAnime)
 
 ---
 
